@@ -1,0 +1,12 @@
+{
+  "name": "Event-del-Visualize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/richard1225/Event-del-Visualize.git",
+  "author": "richard1225 <a770123341@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "vue": "^2.5.16"
+  }
+}
